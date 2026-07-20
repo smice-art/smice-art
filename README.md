@@ -17,6 +17,7 @@ I am a 3D Artist based in Germany with a great affection for mathematical 3D sha
 </p>
 
 ### 💻 Tech Stack
+![Blender](https://img.shields.io/badge/Blender%orange)
 ![Python](https://shields.io)
 ![Blender](https://shields.io)
 ![Markdown](https://shields.io)
