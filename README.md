@@ -15,12 +15,6 @@ I am a 3D Artist based in Germany with a great affection for mathematical 3D sha
   <li><a href="https://sketchfab.com" target="_blank">📦 Sketchfab</a></li>
   <li><a href="https://superhivemarket.com" target="_blank">🛒 Superhive Market</a></li>
 
-### 💻 Tech Stack
-
-<img src="https://shields.io" alt="Python Badge" /> &nbsp;
-<img src="https://shields.io" alt="Blender Badge" /> &nbsp;
-<img src="https://shields.io" alt="Markdown Badge" />
-
 
 
 
