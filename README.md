@@ -1,5 +1,9 @@
 ## Hi there! I'm Claudio 👋 3D Artist & Developer
 
+<p align="center">
+  <img src="https://herokuapp.com" alt="smice-art GitHub Stats" />
+</p>
+
 ### 🧑‍🎨 About Me
 I am a 3D Artist based in Germany with a great affection for mathematical 3D shapes. Everything here revolves around software-based Digital Art, created with Blender and Python scripts.
 
@@ -10,17 +14,17 @@ I am a 3D Artist based in Germany with a great affection for mathematical 3D sha
 * 📐 Python-Scripts – A collection of Python scripts to generate mathematical shapes in Blender.
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://smice.art" target="_blank">🌐 Website</a> &nbsp;|&nbsp;
-  <a href="https://sketchfab.com" target="_blank">📦 Sketchfab</a> &nbsp;|&nbsp;
-  <a href="https://superhivemarket.com" target="_blank">🛒 Superhive Market</a>
-</p>
+<ul align="left">
+  <li><a href="https://smice.art" target="_blank">🌐 Website</a></li>
+  <li><a href="https://sketchfab.com" target="_blank">📦 Sketchfab</a></li>
+  <li><a href="https://superhivemarket.com" target="_blank">🛒 Superhive Market</a></li>
 
 ### 💻 Tech Stack
-![Blender](https://img.shields.io/badge/Blender%orange)
 ![Python](https://shields.io)
 ![Blender](https://shields.io)
 ![Markdown](https://shields.io)
+
+
 
 <!--
 **smice-art/smice-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
