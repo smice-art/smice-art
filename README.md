@@ -1,9 +1,5 @@
 ## Hi there! I'm Claudio 👋 3D Artist & Developer
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="smice-art GitHub Stats" />
-</p>
-
 ### 🧑‍🎨 About Me
 I am a 3D Artist based in Germany with a great affection for mathematical 3D shapes. Everything here revolves around software-based Digital Art, created with Blender and Python scripts.
 
@@ -20,9 +16,11 @@ I am a 3D Artist based in Germany with a great affection for mathematical 3D sha
   <li><a href="https://superhivemarket.com" target="_blank">🛒 Superhive Market</a></li>
 
 ### 💻 Tech Stack
-![Python](https://shields.io)
-![Blender](https://shields.io)
-![Markdown](https://shields.io)
+
+<img src="https://shields.io" alt="Python Badge" /> &nbsp;
+<img src="https://shields.io" alt="Blender Badge" /> &nbsp;
+<img src="https://shields.io" alt="Markdown Badge" />
+
 
 
 
