@@ -1,4 +1,29 @@
-## Hi there 👋
+## Hi there! I'm Claudio 👋 3D Artist & Developer
+
+<p align="center">
+  <img src="https://vercel.app" alt="smice-art GitHub Stats" />
+</p>
+
+### 🧑‍🎨 About Me
+I am a 3D Artist based in Germany with a great affection for mathematical 3D shapes. Everything here revolves around software-based Digital Art, created with Blender and Python scripts.
+
+### 🛠️ Featured Blender Add-ons & Scripts
+
+*   [🔄 Reverse-Baking](https://github.com) – A Blender add-on that reverses the texture baking pipeline.
+*   [🎬 Blender-Auto-Animation](https://github.com) – A small Blender add-on to automate and create multiple animations at once.
+*   [📐 Python-Scripts-Math-Objects](https://github.com) – A collection of Python scripts to generate mathematical shapes in Blender.
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://smice.art" target="_blank">🌐 Website</a> &nbsp;|&nbsp;
+  <a href="https://sketchfab.com" target="_blank">📦 Sketchfab</a> &nbsp;|&nbsp;
+  <a href="https://superhivemarket.com" target="_blank">🛒 Superhive Market</a>
+</p>
+
+### 💻 Tech Stack
+![Python](https://shields.io)
+![Blender](https://shields.io)
+![Markdown](https://shields.io)
 
 <!--
 **smice-art/smice-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
