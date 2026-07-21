@@ -3,18 +3,18 @@
 ### 🧑‍🎨 About Me
 I am a 3D Artist based in Germany with a great affection for mathematical 3D shapes. Everything here revolves around software-based Digital Art, created with Blender and Python scripts.
 
-### 🛠️ Featured Blender Add-ons & Scripts
-* 🔄 Reverse-Baking– A Blender add-on that reverses the texture baking pipeline.
-* 🎬 Blender-Auto-Animation – a Blender add-on to create multiple animations at once.
-* 📐 Python-Scripts – A collection of scripts to generate mathematical shapes in Blender.
+### ⚙️ Featured Blender Add-ons & Scripts
+* ⚙️ Reverse-Baking– A Blender add-on that reverses the texture baking pipeline.
+* ⚙️ Blender-Auto-Animation – a Blender add-on to create multiple animations at once.
+* ⚙️ Python-Scripts – A collection of scripts to generate mathematical shapes in Blender.
 
-### 🌐 Connect with me
+### 👁️‍🗨️ Connect with me
 <ul align="left">
-  <li><a href="https://smice.art" target="_blank">🌐 Website</a></li>
-  <li><a href="https://sketchfab.com/smice" target="_blank">📦 Sketchfab</a></li>
-  <li><a href="https://superhivemarket.com/creators/smice" target="_blank">🛒 Superhive Market</a></li>
+  <li><a href="https://smice.art" target="_blank">👁️‍🗨️ Website</a></li>
+  <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
+  <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
 
-
+### 🔭 I’m currently working on this GitHub space....
 
 
 <!--
