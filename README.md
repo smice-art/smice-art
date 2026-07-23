@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/main.jpg" alt="smice.art" width="100%">
+  <img src="https://github.com/smice-art/Reverse-Baking/blob/main/images/addon.jpg" alt="smice.art" width="100%">
 </p>
 
 ## Hi there! I'm Claudio 👋 3D Artist & Developer
