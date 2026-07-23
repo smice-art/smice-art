@@ -1,7 +1,6 @@
 <p align="center">
-  [main.jpg]
+  <img src="main.jpg" alt="Reverse Baking Banner" width="100%">
 </p>
-
 ## Hi there! I'm Claudio 👋 3D Artist & Developer
 
 ### 🧑‍🎨 About Me
