@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/smice-art/smice-art/blob/main/main.jpg" alt="smice.art" width="100%">
+  [main.jpg]
 </p>
 
 ## Hi there! I'm Claudio 👋 3D Artist & Developer
