@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="main.jpg" alt="Reverse Baking Banner" width="100%">
+  <img src="main.jpg" alt="smice header" width="100%">
 </p>
 
 ## Hi there! I'm Claudio 👋 3D Artist & Developer
