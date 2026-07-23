@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/main.jpg" alt="smice.art" width="100%">
+</p>
+
 ## Hi there! I'm Claudio 👋 3D Artist & Developer
 
 ### 🧑‍🎨 About Me
