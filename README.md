@@ -3,7 +3,7 @@
 </p>
 
 ## Hi there! I'm Claudio 👋 3D Artist & Developer
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Smooch+Sans&size=25&pause=1000&color=113D50&width=435&lines=Hi%2C+I+am+Claudio%2C+3D+Artist+and+Blender+enthusiast)](https://git.io/typing-svg)
 ### 🧑‍🎨 About Me
 I am a 3D Artist based in Germany with a great affection for mathematical 3D shapes. Everything here revolves around software-based Digital Art, created with Blender and Python scripts.
 
