@@ -23,21 +23,18 @@ Through my Blender artworks I want to evoke emotions and make people think. I se
 | :--- | :--- | :--- |
 | <img src="torus3.JPEG" width="250"> | <img src="torus9.JPEG" width="250"> | <img src="torus11.JPEG" width="250"> |
 
+### 🛠️ Algebraic Surfaces
+A huge collection of generative Art Objects, based on mathematical equations.
+
+| Image | 
+| :--- | 
+| <a href="https://smice.art/image.htmp" target="_blank"><img src="implicit102.JPEG" width="250"></a> 
+
 ### 👁️‍🗨️ Connect with me
 <ul align="left">
   <li><a href="https://smice.art" target="_blank">👁️‍🗨️ Website</a></li>
   <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
   <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
-
-### 🄱 Blender Art
-Through my Blender artworks I want to evoke emotions and make people think. I see the digital 3D world as a canvas on which I can visually express my thoughts and feelings-
-
-### 🛠️ Torus Work
-| Image | Preview | Impression |
-| :--- | :--- | :--- |
-| <img src="torus3.JPEG" width="250"> | <img src="torus9.JPEG" width="250"> | <img src="torus11.JPEG" width="250"> |
-
-
 
 
 <!--
