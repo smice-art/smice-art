@@ -28,7 +28,7 @@ It took me some month to search the Internet for standard „Algebraic & Implici
 
 | Watch them | Image | Impression |
 | :--- | :--- | :--- | 
-| <a href="https://smice.art/image.html" target="_blank"><img src="implicit102.JPEG" width="250"></a> <img src="dod.jpg" width="250"><img src="11.jpg" width="250">
+| <a href="https://smice.art/image.html" target="_blank"><img src="implicit102.JPEG" width="250"></a>| <img src="dod.jpg" width="250">|<img src="1.jpg" width="250">
 
 ### 🛠️ Polytope
 A new project finished some time ago, to create a big Library of polytope. A release is planed as asset Library for my Superhive Matktplace.
