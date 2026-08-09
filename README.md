@@ -25,10 +25,12 @@ I am a 3D Artist based in Germany with a great affection for mathematical 3D sha
 Through my Blender artworks I want to evoke emotions and make people think. I see the digital 3D world as a canvas on which I can visually express my thoughts and feelings-
 
 ### 🛠️ Torus Work
-
 | Image | Preview | Impression |
 | :--- | :--- | :--- |
-| <img src="torus11.JPEG" width="250"> | <img src="torus3.JPEG" width="250"> | <img src="torus9.JPEG" width="250"> |
+| <img src="torus3.JPEG" width="250"> | <img src="torus9.JPEG" width="250"> | <img src="torus11.JPEG" width="250"> |
+
+
+
 
 <!--
 **smice-art/smice-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
