@@ -16,7 +16,7 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 * ⚙️ Python-Scripts – A collection of scripts to generate mathematical shapes in Blender.
 
 ### 🄱 Blender Art
-Through my Blender artworks I want to evoke emotions and make people think. I see the digital 3D world as a canvas on which I can visually express my thoughts and feelings-
+Through my Blender artworks I want to evoke emotions and make people think. I see the digital 3D world as a canvas on which I can visually express my thoughts and feelings.
 
 ### 🛠️ Torus Work
 | Image | Preview | Impression |
