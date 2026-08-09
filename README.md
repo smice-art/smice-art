@@ -33,8 +33,8 @@ It took me some month to search the Internet for standard „Algebraic & Implici
 ### 🛠️ Polytope
 A new project finished some time ago, to create a big Library of polytope. A release is planed as asset Library for my Superhive Matktplace.
 
-| Watch them | 
-| :--- | 
+| Image 1 |  Image 2 | 
+| :--- | :--- | 
 | <img src="11.jpg" width="250"> |<img src="poly.jpg" width="250"> |
 
 
