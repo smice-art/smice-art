@@ -5,7 +5,7 @@
 ## Hi there! I'm Claudio 👋 3D Artist & Developer
 
 ### 🧑‍🎨 About Me
-I am a 3D Artist with a great affection for mathematical 3D shapes. Everything here revolves around software-based Digital Art, created with Blender and Python scripts.
+I am a 3D Artist with a great affection for mathematical 3D shapes. Everything here revolves around software-based Digital Art, created with Blender and Python scripts. Even though all my projects have a mathematical basis, I am primarily an artist, not a mathematician. Therefore, it's quite possible that my explanations aren't mathematically correct. Please excuse me for that.
 
 ### 💬 I’m currently... 
 ....working on this GitHub space
@@ -26,14 +26,14 @@ Through my Blender artworks I want to evoke emotions and make people think. I se
 ### 🛠️ Algebraic Surfaces
 It took me some month to search the Internet for standard „Algebraic & Implicit Surfaces“ and translate them for a Blender geometry node use. The result is a huge collection of generative Art Objects, based on mathematical equations.
 
-| Watch  | Image | Impression |
+| Image  | Image | Image |
 | :--- | :--- | :--- | 
 | <a href="https://smice.art/image.html" target="_blank"><img src="implicit102.JPEG" width="250"></a>| <img src="dod.jpg" width="250">|<img src="1.jpg" width="250">
 
 ### 🛠️ Polytope
 A new project finished some time ago, to create a big Library of polytope. Nowadays, the term polytope is a broad term that covers a wide class of objects, and various definitions appear in the mathematical literature - my one are only Art Object. A release is planed as asset Library for my Superhive Martktplace.
 
-| Image 1 |  
+| Image |  
 | :--- | 
 | <img src="11.jpg" width="550"> |
 
