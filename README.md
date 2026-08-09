@@ -24,11 +24,19 @@ Through my Blender artworks I want to evoke emotions and make people think. I se
 | <img src="torus3.JPEG" width="250"> | <img src="torus9.JPEG" width="250"> | <img src="torus11.JPEG" width="250"> |
 
 ### 🛠️ Algebraic Surfaces
-A huge collection of generative Art Objects, based on mathematical equations.
+It took me some month to search the Internet for standard „Algebraic & Implicit Surfaces“ and translate them for a Blender geometry node use. The result is a huge collection of generative Art Objects, based on mathematical equations.
 
-| Math | 
+| Watch them | 
 | :--- | 
 | <a href="https://smice.art/image.html" target="_blank"><img src="implicit102.JPEG" width="250"></a> 
+
+### 🛠️ Polytope
+A new project finished some time ago, to create a big Library of polytope. A release is planed as asset Library for my Superhive Matktplace.
+
+| Watch them | 
+| :--- | 
+| <img src="11.jpg" width="250"> |<img src="poly.jpg" width="250"> |
+
 
 ### 👁️‍🗨️ Connect with me
 <ul align="left">
