@@ -37,7 +37,7 @@ A new project finished some time ago, to create a big Library of polytope. A rel
 | :--- | 
 | <img src="11.jpg" width="250"> |
 
-# Screen Shot
+### Assets
 ![Banner Image](poly.jpg)
 
 ### 👁️‍🗨️ Connect with me
