@@ -26,9 +26,9 @@ Through my Blender artworks I want to evoke emotions and make people think. I se
 ### 🛠️ Algebraic Surfaces
 A huge collection of generative Art Objects, based on mathematical equations.
 
-| Image | 
+| Math | 
 | :--- | 
-| <a href="https://smice.art/image.htmp" target="_blank"><img src="implicit102.JPEG" width="250"></a> 
+| <a href="https://smice.art/image.html" target="_blank"><img src="implicit102.JPEG" width="250"></a> 
 
 ### 👁️‍🗨️ Connect with me
 <ul align="left">
