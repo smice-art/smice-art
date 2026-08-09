@@ -21,14 +21,14 @@ I am a 3D Artist based in Germany with a great affection for mathematical 3D sha
   <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
   <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
 
-### 
+### 🄱 Blender Art
 Through my Blender artworks I want to evoke emotions and make people think. I see the digital 3D world as a canvas on which I can visually express my thoughts and feelings-
 
-### Torus Work
+### 🛠️ Torus Work
 
 | Image | Preview | Impression |
 | :--- | :--- | :--- |
-| <img src="images/torus11.jpeg" width="250"> | <img src="images/torus3.jpeg" width="250"> | <img src="images/torus9.jpeg" width="250"> |
+| <img src="torus11.JPEG" width="250"> | <img src="torus3.JPEG" width="250"> | <img src="torus9.JPEG" width="250"> |
 
 <!--
 **smice-art/smice-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
