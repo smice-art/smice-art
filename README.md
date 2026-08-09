@@ -15,6 +15,14 @@ I am a 3D Artist based in Germany with a great affection for mathematical 3D sha
 * ⚙️ Blender-Auto-Animation – a Blender add-on to create multiple animations at once.
 * ⚙️ Python-Scripts – A collection of scripts to generate mathematical shapes in Blender.
 
+### 🄱 Blender Art
+Through my Blender artworks I want to evoke emotions and make people think. I see the digital 3D world as a canvas on which I can visually express my thoughts and feelings-
+
+### 🛠️ Torus Work
+| Image | Preview | Impression |
+| :--- | :--- | :--- |
+| <img src="torus3.JPEG" width="250"> | <img src="torus9.JPEG" width="250"> | <img src="torus11.JPEG" width="250"> |
+
 ### 👁️‍🗨️ Connect with me
 <ul align="left">
   <li><a href="https://smice.art" target="_blank">👁️‍🗨️ Website</a></li>
