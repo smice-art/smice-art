@@ -31,11 +31,11 @@ It took me some month to search the Internet for standard „Algebraic & Implici
 | <a href="https://smice.art/image.html" target="_blank"><img src="implicit102.JPEG" width="250"></a>| <img src="dod.jpg" width="250">|<img src="1.jpg" width="250">
 
 ### 🛠️ Polytope
-A new project finished some time ago, to create a big Library of polytope. A release is planed as asset Library for my Superhive Matktplace.
+A new project finished some time ago, to create a big Library of polytope. Nowadays, the term polytope is a broad term that covers a wide class of objects, and various definitions appear in the mathematical literature - my one are only Art Object. A release is planed as asset Library for my Superhive Martktplace.
 
 | Image 1 |  
 | :--- | 
-| <img src="11.jpg" width="250"> |
+| <img src="11.jpg" width="550"> |
 
 ### Assets
 ![Banner Image](poly.jpg)
