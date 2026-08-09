@@ -28,7 +28,7 @@ Through my Blender artworks I want to evoke emotions and make people think. I se
 
 | Image | Preview | Impression |
 | :--- | :--- | :--- |
-| <img src="images/P00.jpg" width="250"> | <img src="images/P02.jpg" width="250"> | <img src="images/P15.jpg" width="250"> |
+| <img src="images/torus11.jpeg" width="250"> | <img src="images/torus3.jpeg" width="250"> | <img src="images/torus9.jpeg" width="250"> |
 
 <!--
 **smice-art/smice-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
