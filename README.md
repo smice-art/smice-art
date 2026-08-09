@@ -5,7 +5,7 @@
 ## Hi there! I'm Claudio 👋 3D Artist & Developer
 
 ### 🧑‍🎨 About Me
-I am a 3D Artist based in Germany with a great affection for mathematical 3D shapes. Everything here revolves around software-based Digital Art, created with Blender and Python scripts.
+I am a 3D Artist with a great affection for mathematical 3D shapes. Everything here revolves around software-based Digital Art, created with Blender and Python scripts.
 
 ### 💬 I’m currently... 
 ....working on this GitHub space
@@ -21,12 +21,12 @@ Through my Blender artworks I want to evoke emotions and make people think. I se
 ### 🛠️ Torus Work
 | Image | Preview | Impression |
 | :--- | :--- | :--- |
-| <img src="torus3.JPEG" width="250"> | <img src="torus9.JPEG" width="250"> | <img src="torus11.JPEG" width="250"> |
+| <img src="torus3.jpg" width="250"> | <img src="torus9.jpg" width="250"> | <img src="torus11.jpg" width="250"> |
 
 ### 🛠️ Algebraic Surfaces
 It took me some month to search the Internet for standard „Algebraic & Implicit Surfaces“ and translate them for a Blender geometry node use. The result is a huge collection of generative Art Objects, based on mathematical equations.
 
-| Watch them | Image | Impression |
+| Watch  | Image | Impression |
 | :--- | :--- | :--- | 
 | <a href="https://smice.art/image.html" target="_blank"><img src="implicit102.JPEG" width="250"></a>| <img src="dod.jpg" width="250">|<img src="1.jpg" width="250">
 
