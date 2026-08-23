@@ -11,6 +11,11 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 ....working on this GitHub space
 
 ### 👁️‍🗨️ Connect with me
+
+
+| [Home](https://link1.com) | [About](https://link2.com) | [Projects](https://link3.com) |
+| :---: | :---: | :---: |
+
   <ul style={{ textDecoration: "none" }}>
   <li><a href="https://sketchfab.com/smice">👁️‍🗨️ Sketchfab</a></li>
   <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
