@@ -18,6 +18,9 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 
 <kbd>[SKETCHFAB](https://sketchfab.com/smice)</kbd>
 
+[![Website](https://shields.io)](https://example.com)
+
+
   <ul style={{ textDecoration: "none" }}>
   <li><a href="https://sketchfab.com/smice">👁️‍🗨️ Sketchfab</a></li>
   <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
