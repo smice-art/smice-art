@@ -2,7 +2,9 @@
   <img src="smice.jpg" alt="smice header" width="100%">
 </p>
 
-## Hi there! I'm Claudio 👋 3D Artist & Developer
+## Hi there! I'm Claudio 👋 
+
+📍 Bad Reichenhall | 🛠️ Artist & Developer 
 
 ### 🧑‍🎨 About Me
 I am a 3D Artist with a great affection for mathematical 3D shapes. Everything here revolves around software-based Digital Art, created with Blender and Python scripts. Even though all my projects have a mathematical basis, I am primarily an artist, not a mathematician. Therefore, it's quite possible that my explanations aren't mathematically correct. Please excuse me for that.
