@@ -12,7 +12,7 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 
 ### 👁️‍🗨️ Connect with me
   <ul>
-  <li><a href="https://sketchfab.com/smice" target="_blank" style="text-decoration:none">👁️‍🗨️ Sketchfab</a></li>
+  <li><a href="https://sketchfab.com/smice" target="_blank" style="text-decoration:none!important;">👁️‍🗨️ Sketchfab</a></li>
   <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
   <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
   <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
