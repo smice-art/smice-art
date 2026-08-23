@@ -13,7 +13,7 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 ### 👁️‍🗨️ Connect with me
 
 
-| <img src="images/twitter.png" width="48" height="48" alt="X"><br>[Twitter - X](https://x.com) | <img src="images/youtube.png" width="48" height="48" alt="YouTube"><br>[YouTube](https://youtube.com) | <img src="images/sketchfab.png" width="48" height="48" alt="Sketchfab"><br>[Sketchfab](https://sketchfab.com) | <img src="images/behance.png" width="48" height="48" alt="Behance"><br>[Behance](https://behance.net) | <img src="images/artstation.png" width="48" height="48" alt="Artstation"><br>[Artstation](https://artstation.com) | <img src="images/github.png" width="48" height="48" alt="GitHub"><br>[GitHub](https://github.com) | <img src="images/superhive.png" width="48" height="48" alt="Superhive"><br>[Superhive](https://superhivemarket.com) |
+| <img src="images/x.png" width="48" height="48" alt="X"><br>[Twitter - X](https://x.com) | <img src="images/youtube.png" width="48" height="48" alt="YouTube"><br>[YouTube](https://youtube.com) | <img src="images/fab.png" width="48" height="48" alt="Sketchfab"><br>[Sketchfab](https://sketchfab.com) | <img src="images/be.png" width="48" height="48" alt="Behance"><br>[Behance](https://behance.net) | <img src="images/art.png" width="48" height="48" alt="Artstation"><br>[Artstation](https://artstation.com) | <img src="images/github.png" width="48" height="48" alt="GitHub"><br>[GitHub](https://github.com) | <img src="images/superhive.png" width="48" height="48" alt="Superhive"><br>[Superhive](https://superhivemarket.com) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
