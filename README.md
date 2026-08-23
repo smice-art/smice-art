@@ -16,7 +16,7 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 | [Home](https://link1.com) | [About](https://link2.com) | [Projects](https://link3.com) |
 | :---: | :---: | :---: |
 
-<kbd>[Clickable Button Link](https://example.com)</kbd>
+<kbd>[SKETCHFAB](https://sketchfab.com/smice)</kbd>
 
   <ul style={{ textDecoration: "none" }}>
   <li><a href="https://sketchfab.com/smice">👁️‍🗨️ Sketchfab</a></li>
