@@ -12,6 +12,14 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 
 ### 👁️‍🗨️ Connect with me
 
+[![Twitter/X](https://shields.io)](https://x.com/smice_art)
+[![YouTube](https://shields.io)](https://www.youtube.com/@smice-art)
+[![Artstation](https://shields.io)](https://www.artstation.com/smice)
+[![Behance](https://shields.io)](https://www.behance.net/smice-art)
+[![Sketchfab](https://shields.io)](https://sketchfab.com/smice)
+[![GitHub](https://shields.io)](https://github.com/smice-art)
+[![Superhive](https://shields.io)](https://superhivemarket.com/creators/smice)
+
 
 | [Home](https://link1.com) | [About](https://link2.com) | [Projects](https://link3.com) |
 | :---: | :---: | :---: |
