@@ -11,11 +11,15 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 ....working on this GitHub space
 
 ### 👁️‍🗨️ Connect with me
-- [![Website](images/smice_001.png)](https://smice.art) Smice
-- [![Website](images/fab.png)](https://sketchfab.com/smice.art) Sketchfab
+  <ul>
   <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
   <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
-
+  <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
+  <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
+  <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
+  <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
+  </ul>
+    
 ### ⚙️ Featured Blender Add-ons & Scripts
 * ⚙️ Reverse-Baking– A Blender add-on that reverses the texture baking pipeline.
 * ⚙️ Blender-Auto-Animation – a Blender add-on to create multiple animations at once.
