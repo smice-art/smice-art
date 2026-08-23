@@ -12,30 +12,8 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 
 ### 👁️‍🗨️ Connect with me
 
-
-| <img src="images/x.png" width="48" height="48" alt="X"><br>[Twitter - X](https://x.com) | <img src="images/youtube.png" width="48" height="48" alt="YouTube"><br>[YouTube](https://youtube.com) | <img src="images/fab.png" width="48" height="48" alt="Sketchfab"><br>[Sketchfab](https://sketchfab.com) | <img src="images/be.png" width="48" height="48" alt="Behance"><br>[Behance](https://behance.net) | <img src="images/art.png" width="48" height="48" alt="Artstation"><br>[Artstation](https://artstation.com) | <img src="images/github.png" width="48" height="48" alt="GitHub"><br>[GitHub](https://github.com) | <img src="images/superhive.png" width="48" height="48" alt="Superhive"><br>[Superhive](https://superhivemarket.com) |
+| <img src="images/x.png" width="48" height="48" alt="X"><br>[X](https://x.com/smice_art) | <img src="images/youtube.png" width="48" height="48" alt="YouTube"><br>[YouTube](https://www.youtube.com/@smice-art) | <img src="images/fab.png" width="48" height="48" alt="Sketchfab"><br>[Sketchfab](https://sketchfab.com) | <img src="images/be.png" width="48" height="48" alt="Behance"><br>[Behance](https://www.behance.net/smice-art) | <img src="images/art.png" width="48" height="48" alt="Artstation"><br>[Artstation](https://www.artstation.com/smice) | <img src="images/github.png" width="48" height="48" alt="GitHub"><br>[GitHub](https://github.com/smice-art) | <img src="images/superhive.png" width="48" height="48" alt="Superhive"><br>[Superhive](https://superhivemarket.com/creators/smice) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
-
-| [Home](https://link1.com) | [About](https://link2.com) | [Projects](https://link3.com) |
-| :---: | :---: | :---: |
-
-<kbd>[SKETCHFAB](https://sketchfab.com/smice)</kbd>
-
-[![Website](https://shields.io)](https://example.com)
-
-`https://example.com`
-
-
-
-  <ul style={{ textDecoration: "none" }}>
-  <li><a href="https://sketchfab.com/smice">👁️‍🗨️ Sketchfab</a></li>
-  <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
-  <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
-  <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
-  <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
-  <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
-  </ul>
     
 ### ⚙️ Featured Blender Add-ons & Scripts
 * ⚙️ Reverse-Baking– A Blender add-on that reverses the texture baking pipeline.
