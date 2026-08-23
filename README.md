@@ -11,8 +11,8 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 ....working on this GitHub space
 
 ### 👁️‍🗨️ Connect with me
-  <ul>
-  <li><a href="https://sketchfab.com/smice" style={{ textDecoration: "none" }}>👁️‍🗨️ Sketchfab</a></li>
+  <ul style={{ textDecoration: "none" }}>
+  <li><a href="https://sketchfab.com/smice">👁️‍🗨️ Sketchfab</a></li>
   <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
   <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
   <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
