@@ -10,6 +10,12 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 ### 💬 I’m currently... 
 ....working on this GitHub space
 
+### 👁️‍🗨️ Connect with me
+<ul align="left">
+  <li>[[Website](images/smice.png)](https://smice.art)</li>
+  <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
+  <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
+
 ### ⚙️ Featured Blender Add-ons & Scripts
 * ⚙️ Reverse-Baking– A Blender add-on that reverses the texture baking pipeline.
 * ⚙️ Blender-Auto-Animation – a Blender add-on to create multiple animations at once.
@@ -39,12 +45,6 @@ A new project finished some time ago, to create a big Library of polytope. Nowad
 
 ### Assets
 ![Banner Image](poly.jpg)
-
-### 👁️‍🗨️ Connect with me
-<ul align="left">
-  <li><a href="https://smice.art" target="_blank">👁️‍🗨️ Website</a></li>
-  <li><a href="https://sketchfab.com/smice" target="_blank">👁️‍🗨️ Sketchfab</a></li>
-  <li><a href="https://superhivemarket.com/creators/smice" target="_blank">👁️‍🗨️ Superhive Market</a></li>
 
 
 <!--
