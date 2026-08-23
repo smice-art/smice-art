@@ -13,6 +13,17 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 ### 👁️‍🗨️ Connect with me
 
 
+| Icon | Platform |
+| :---: | :--- |
+| <img src="images/x.png" width="64" height="64" alt="X"> | [Twitter - X](https://x.com) |
+| <img src="images/youtube.png" width="64" height="64" alt="YouTube"> | [YouTube](https://youtube.com) |
+| <img src="images/fab.png" width="64" height="64" alt="Sketchfab"> | [Sketchfab](https://sketchfab.com) |
+| <img src="images/be.png" width="64" height="64" alt="Behance"> | [Behance](https://behance.net) |
+| <img src="images/art.png" width="64" height="64" alt="Artstation"> | [Artstation](https://artstation.com) |
+| <img src="images/github.png" width="64" height="64" alt="GitHub"> | [GitHub](https://github.com) |
+| <img src="images/superhive.png" width="64" height="64" alt="Superhive"> | [Superhive](https://superhivemarket.com) |
+
+
 | [🐦 X (Twitter)](https://x.com/smice_art) | [📺 YouTube](https://www.youtube.com/@smice-art) | [🎨 Artstation](https://www.artstation.com/smice) | [💼 Behance](https://www.behance.net/smice-art) | [📦 Sketchfab](https://sketchfab.com/smice) | [💻 GitHub](https://github.com/smice-art) | [🛒 Superhive](https://superhivemarket.com/creators/smice) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
