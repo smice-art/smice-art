@@ -25,7 +25,7 @@ I am a 3D Artist with a great affection for mathematical 3D shapes. Everything h
 ### 🄱 Blender Art
 Through my Blender artworks I want to evoke emotions and make people think. I see the digital 3D world as a canvas on which I can visually express my thoughts and feelings.
 
-### 🛠️ Radiological Image Visualizer
+### 🛠️ Radiological Image Visualizer [RIV](https://github.com/smice-art/Radiological-Image-Visualizer).
 Radiological Image Visualizer (short: RIV) reads a folder of DICOM files (CT or MRI), builds a 3D volume from the slices, and shows it inside Blender in complementary ways that share the same 3D space.
 
 | Image |  
