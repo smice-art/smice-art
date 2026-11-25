@@ -30,7 +30,7 @@ Radiological Image Visualizer (short: RIV) reads a folder of DICOM files (CT or 
 
 | Image |  
 | :--- | 
-| <img src="RIF.jpg" width="550"> |
+| <img src="RIF.jpg" width="750"> |
 
 ### 🛠️ Torus Work
 | Image | Preview | Impression |
